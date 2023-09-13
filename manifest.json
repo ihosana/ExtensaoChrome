@@ -1,0 +1,15 @@
+{
+    "manifest_version":2,
+    "version":"0.0.1",
+    "name":"ihosanaExtensões",
+    "description":"Extensão de Ihosana",
+    "author":"Ihosana de Assis",
+  
+    "browser_action":{
+        "default_title":"Primeira Extensão",
+        "default_popup":"index.html"
+    }, 
+
+    "permissions": ["storage"]
+
+}
